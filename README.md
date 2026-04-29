@@ -1,6 +1,8 @@
 # 🎵 VibeFind: A Music Recommender
 
-> 📹 **Demo Video:** [Watch on Loom](#) ← replace with your Loom link
+## Demo Video
+
+<video src="assets/demo.mp4" controls width="100%"></video>
 
 ## Original Project
 
